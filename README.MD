@@ -49,34 +49,6 @@ api-podcast-list-node-dio/
 ├── package.json             # Dependências do projeto
 
 ````
-
----
-
-## 🛠️ Como executar o projeto localmente
-
-### Pré-requisitos
-
-- Node.js (v18 ou superior)
-- npm
-
-### Instalação
-
-```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/api-podcast-list-node-dio.git
-cd api-podcast-list-node-dio
-
-# Instale as dependências
-npm install
-````
-
-### Execução
-
-```bash
-# Execute o servidor
-npm start
-```
-
 Servidor será iniciado em: `http://localhost:3333`
 
 ---
